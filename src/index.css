@@ -1,0 +1,12 @@
+.container{
+    color: #ccc;
+}
+#card{
+    border: none;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+*{
+    background-color: black;
+}
